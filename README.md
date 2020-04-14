@@ -1,2 +1,2 @@
 # yop-paas
-易到开放平台-to B
+基于YOP的PAAS服务
